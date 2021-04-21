@@ -1,0 +1,9 @@
+export const IS_LOGGED_IN = "IS_LOGGED_IN";
+export const IS_LOGGED_OUT = "IS_LOGGED_OUT";
+export const TOKEN = "TOKEN";
+export const COUPLE_TOURS = "COUPLE_TOURS";
+export const RIGHT = "RIGHT";
+export const ALL_TOURS = "ALL_TOURS";
+export const NEAR_TOURS = "NEAR_TOURS";
+export const FAMILY_TOURS = "FAMILY_TOURS"; 
+export const APPROVE_COMPANY = "APPROVE_COMPANY"; 
